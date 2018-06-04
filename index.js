@@ -18,5 +18,5 @@ bot.on('message', function (message){
     }
 })
 
-bot.login('NDUzMjA0ODE4OTkxNzc1NzYz.Dfbn2g.08jefqOCEaToZYRWiqAsAfaii4Y')
+bot.login('')
 
